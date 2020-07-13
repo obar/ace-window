@@ -65,6 +65,7 @@
 (require 'avy)
 (require 'ring)
 (require 'subr-x)
+(require 'posframe)
 
 ;;* Customization
 (defgroup ace-window nil
